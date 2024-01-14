@@ -1,0 +1,6 @@
+use o monkey-moore para fazer uma busca relativa, achando uma palavra e criando uma tabela.tbl
+
+A busca relativa em dados hexadecimais refere-se à procura de padrões ou valores específicos 
+dentro de uma sequência de dados representada em formato hexadecimal. O termo "relativa"
+ geralmente significa que você está buscando por um padrão em relação a alguma posição ou 
+offset específico nos dados.
